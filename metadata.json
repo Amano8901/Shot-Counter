@@ -1,0 +1,7 @@
+{
+  "name": "Shot Counter",
+  "description": "Predict the number of 25ml shots remaining in a water bottle using AI image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
